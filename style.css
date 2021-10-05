@@ -2,7 +2,7 @@
 body {
     margin: auto;
     font-family: 'Times New Roman', Times, serif;
-    color: #E9C46A;
+    color: #433A3F;
     text-align: center;
     -webkit-text-stroke: .2px;
     -webkit-text-stroke-color: black;
@@ -54,7 +54,8 @@ footer h3 {
     padding: 30px;
 }
 
-ol {
+ol, ul {
+    margin-top: 0;
     display: inline-block;
 }
 
