@@ -1,3 +1,4 @@
+/* Added a stroke to my text for easier readability and setting the webpage fonts and color */
 body {
     margin: auto;
     font-family: 'Times New Roman', Times, serif;
@@ -62,6 +63,8 @@ img {
     height: auto;
 }
 
+
+/* All my needed pseudo codes for my contact links */
 a:link {color: #E76F51;}
 a:visited {color: pink;}
 a:hover {color: #443742;}
