@@ -63,6 +63,12 @@ img {
     height: auto;
 }
 
+hr {
+    width: 50%;
+    border: 5px solid #D8F793;
+    border-radius: 5px;
+}
+
 
 /* All my needed pseudo codes for my contact links */
 a:link {color: #E76F51;}
